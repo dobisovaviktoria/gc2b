@@ -1,4 +1,5 @@
 # Global Campus Commute Buddy
+## Smart, safe, and sustainable group commuting for campus life.
 
 This is a meta repository for all the components needed to run the whole application
 
@@ -8,7 +9,6 @@ This is a meta repository for all the components needed to run the whole applica
 - Nang Cherry Naw
 
 ## Project Overview
-### Smart, safe, and sustainable group commuting for campus life.
 Commuting to campus activities shouldn't mean traveling alone. Global Campus Commute Buddy (GC²B) tackles this challenge by connecting students who share similar routes and schedules, making it easier to organise walking groups, cycling buddies, carpooling arrangements, and public transport coordination all in one platform. Our proof-of-concept demonstrates how sustainable commuting can be both practical and social. We built GC²B using Spring Boot with Spring Modulith for a clean, modular backend architecture, paired with an Angular frontend that prioritises mobile-first, intuitive design.
 
 ## Components
